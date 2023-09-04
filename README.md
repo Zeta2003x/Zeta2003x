@@ -29,10 +29,10 @@
 | Language   | Rating     |
 | ---------- | ---------- |
 | Python     | ⚡⚡⚡⚡  |
-| C          | ⚡⚡⚡   |
-| JavaScript | ⚡⚡⚡   |
-| TypeScript | ⚡⚡   |
-| Bash       | ⚡     |
+| C          | ⚡⚡⚡    |
+| JavaScript | ⚡⚡⚡    |
+| TypeScript | ⚡🎯      |
+| Bash       | ⚡         |
       
 ### Back End Frameworks
 
@@ -49,8 +49,8 @@
 
 ### Front-End
 
-| Language                                                | Rating   | 
-| ------------------------------------------------------- | -------- |
+| Language                                                | Rating    | 
+| ------------------------------------------------------- | --------  |
 | HTML                                                    | ⚡⚡⚡   | 
 | CSS                                                     | ⚡⚡🎯   |
 | [Tailwind](https://github.com/tailwindlabs/tailwindcss) | ⚡⚡🎯   | 
@@ -82,8 +82,7 @@
 | Git        | ⚡⚡⚡🎯 |
 | Docker     | ⚡⚡🎯    |
 | AWS        | 🎯🎯      |
-| Kubernetes | 🎯🎯      |
-| Makefile | ⚡⚡ | 
+| Makefile   | ⚡⚡      | 
 
 ### Data Analysis tools
      
