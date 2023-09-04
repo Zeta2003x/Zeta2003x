@@ -6,12 +6,14 @@
   
 - 🔥 I like to automate boring tasks and develop reliable solutions.
 
+
 ## 📚 Now learning in my career
 - ✏ Diseño de Sistemas
 - 🛡 Ciberseguridad
 - ⚙ Sistemas Operativos
 - 💾 Gestión de Datos
-  
+
+
 ## 🛠 My tech stack
 
 - ⚡ = Current
@@ -26,43 +28,32 @@
 
 | Language   | Rating     |
 | ---------- | ---------- |
-| Java       | ⚡⚡⚡⚡   |
-| C          | ⚡⚡⚡⚡   |
-| TypeScript | ⚡⚡⚡⚡   |
-| Scala      | ⚡⚡⚡     |
-| Bash       | ⚡⚡⚡     |
-| JavaScript | ⚡⚡⚡     |
-| Ruby       | ⚡⚡⚡     |
+| Python     | ⚡⚡⚡⚡  |
+| C          | ⚡⚡⚡   |
+| JavaScript | ⚡⚡⚡   |
+| TypeScript | ⚡⚡   |
+| Bash       | ⚡     |
       
 ### Back End Frameworks
 
-| Language | Framework                                                     | Rating    |
-| -------- | ------------------------------------------------------------- | --------- |
-| Java     | [Spring Boot](https://github.com/spring-projects/spring-boot) | ⚡⚡⚡🎯  |
-| Java     | [Javalin](https://github.com/javalin/javalin)                 | ⚡⚡⚡    |
-| Node.js  | [Express.js](https://github.com/expressjs/express)            | ⚡⚡      | 
+| Language | Framework               | Rating    |
+| -------- | ----------------------- | --------- |
+| Python   | Flask                   | ⚡⚡     |
+| Node.js  | Express.js              | ⚡🎯     |
 
 ### Testing Libraries
       
-| Language | Framework                                     | Rating    |
-| -------- | --------------------------------------------- | --------- |
-| Java     | [JUnit](https://github.com/junit-team/junit5) | ⚡⚡⚡⚡ |
-| Java     | [Mockito](https://github.com/mockito/mockito) | ⚡⚡⚡⚡ |
-| Java     | [AssertJ](https://github.com/assertj/assertj) | ⚡⚡⚡⚡ |
-
-### Metaframeworks
-
-| Language   | Framework                                    | Rating |
-| ---------- | -------------------------------------------- | ------ |
-| TypeScript | [Next.js](https://github.com/vercel/next.js) | 🎯🎯🎯 |
+| Language | Framework  | Rating    |
+| -------- | ---------- | --------- |
+| Python   | [Pytest]   | ⚡⚡     |
 
 ### Front-End
 
 | Language                                                | Rating   | 
 | ------------------------------------------------------- | -------- |
 | HTML                                                    | ⚡⚡⚡   | 
-| CSS                                                     | ⚡🎯🎯   |
-| [Tailwind](https://github.com/tailwindlabs/tailwindcss) | 🎯🎯🎯   | 
+| CSS                                                     | ⚡⚡🎯   |
+| [Tailwind](https://github.com/tailwindlabs/tailwindcss) | ⚡⚡🎯   | 
 
    </td>
    <td>
@@ -71,44 +62,43 @@
 
 | Framework                                      | Rating   |
 | ---------------------------------------------- | -------- |
-| [Angular](https://github.com/angular/angular)  | ⚡⚡⚡   |
-| [React.js](https://github.com/facebook/react)  | ⚡🎯🎯🎯 |
+| [React.js](https://github.com/facebook/react)  | ⚡⚡🎯  |
+| [Next.js](https://github.com/vercel/next.js)   | 🎯🎯    |
 
 ### Database
 
-| Type    | ORM/ODM                                                   | Rating   |
-| ------- | --------------------------------------------------------- | -------- |
-| SQL     | [Hibernate](https://github.com/hibernate/hibernate-orm)   | ⚡⚡⚡⚡ |
-| No-SQL  | [ElasticSearch](https://github.com/elastic/elasticsearch) | ⚡🎯🎯   | 
-| SQL     | [Prisma](https://github.com/prisma/prisma)                | 🎯🎯🎯   | 
+| Type    | DB-ORM           | Rating     |
+| ------- | ---------------- | --------   |
+| SQL     | PostgreSQL       | ⚡⚡⚡🎯  |
+| SQL     | MS SQL Server    | ⚡⚡🎯    |
+| SQL     | MS Access        | ⚡⚡      |
+| No-SQL  | MongoDB          | ⚡🎯🎯    | 
+| ORM     | [Prisma](https://github.com/prisma/prisma) | 🎯🎯 | 
 
 ### Dev Ops
 
 | Technology | Rating     |
 | ---------- | ---------- |
-| Git        | ⚡⚡⚡⚡⚡ |
-| Docker     | ⚡⚡⚡⚡   |
-| Nginx      | ⚡🎯       |
-| AWS        | 🎯🎯       |
-| Kubernetes | 🎯🎯       |
+| Git        | ⚡⚡⚡🎯 |
+| Docker     | ⚡⚡🎯    |
+| AWS        | 🎯🎯      |
+| Kubernetes | 🎯🎯      |
+| Makefile | ⚡⚡ | 
 
-### Build Tools
+### Data Analysis tools
      
-| Tool     | Rating   |
-| -------- | -------- |
-| Maven    | ⚡⚡⚡⚡ | 
-| Makefile | ⚡⚡⚡⚡ | 
-| CMake    | ⚡⚡⚡   |
+| Tool         | Rating     |
+| --------     | --------   |
+| Excel        | ⚡⚡⚡⚡ |
+| Power BI     | ⚡⚡⚡🎯 |
+
 
 ### Libraries
 
 | Language   | Library                                                | Rating   |
 |------------| ------------------------------------------------------ | -------- |
-| TypeScript | [Discord.js](https://github.com/discordjs/discord.js)  | ⚡⚡⚡⚡ |
-| TypeScript | [RxJS](https://github.com/ReactiveX/rxjs)              | ⚡⚡⚡   |
-| Java       | [Google Guice](https://github.com/google/guice)        | ⚡⚡     | 
-| TypeScript | [tRPC](https://github.com/trpc/trpc)                   | 🎯🎯🎯   |
-| TypeScript | [NextAuth.js](https://github.com/nextauthjs/next-auth) | 🎯🎯🎯   |
+| Selenium | [Discord.js](https://pypi.org/project/selenium)          | ⚡⚡⚡  |
+| Pandas | [RxJS](https://pandas.pydata.org/)                         | ⚡⚡    |
 
   </td>
  </tr>
