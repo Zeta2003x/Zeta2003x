@@ -6,7 +6,7 @@
   
 - 🔥 I like to automate boring tasks and develop reliable solutions.
 
-## 📚 My career
+## 📚 Now learning in my career
 - ✏ Diseño de Sistemas
 - 🛡 Ciberseguridad
 - ⚙ Sistemas Operativos
