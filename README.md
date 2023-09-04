@@ -1,6 +1,6 @@
 ### Hello there 👋, I am Mati
 
-- 💻 I'm 20 years old, studying Information Systems Engineering at the [National Technological University](http://www.sistemas.frba.utn.edu.ar/).
+- 💻 I'm 20 years old, studying Information Systems Engineering at the [National Technological University](http://www.frba.utn.edu.ar/).
 
 - 🚀 Currently working as a Salesforce Developer Apprentice at [Endava](https://www.endava.com/).
   
