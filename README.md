@@ -96,8 +96,9 @@
 
 | Language   | Library                                                | Rating   |
 |------------| ------------------------------------------------------ | -------- |
-| Selenium | [Discord.js](https://pypi.org/project/selenium)          | ⚡⚡⚡  |
-| Pandas | [RxJS](https://pandas.pydata.org/)                         | ⚡⚡    |
+| Python | [Selenium](https://pypi.org/project/selenium)              | ⚡⚡⚡  |
+| Python | [Pandas](https://pandas.pydata.org/)                       | ⚡⚡    |
+| JavaScript | [Tailwind UI](https://tailwindui.com/)                 | ⚡⚡    |
 
   </td>
  </tr>
