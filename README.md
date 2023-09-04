@@ -55,9 +55,6 @@
 | CSS                                                     | ⚡⚡🎯   |
 | [Tailwind](https://github.com/tailwindlabs/tailwindcss) | ⚡⚡🎯   | 
 
-   </td>
-   <td>
- 
 ### Front-End Frameworks
 
 | Framework                                      | Rating   |
@@ -65,6 +62,9 @@
 | [React.js](https://github.com/facebook/react)  | ⚡⚡🎯  |
 | [Next.js](https://github.com/vercel/next.js)   | 🎯🎯    |
 
+   </td>
+   <td>
+ 
 ### Database
 
 | Type    | DB-ORM           | Rating     |
