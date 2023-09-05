@@ -33,6 +33,7 @@
 | JavaScript | ⚡⚡⚡    |
 | TypeScript | ⚡🎯      |
 | Bash       | ⚡         |
+| Java       | ⚡⚡      |
       
 ### Back End Frameworks
 
@@ -40,12 +41,6 @@
 | -------- | ----------------------- | --------- |
 | Python   | Flask                   | ⚡⚡     |
 | Node.js  | Express.js              | ⚡🎯     |
-
-### Testing Libraries
-      
-| Language | Framework  | Rating    |
-| -------- | ---------- | --------- |
-| Python   | [Pytest]   | ⚡⚡     |
 
 ### Front-End
 
@@ -91,6 +86,11 @@
 | Excel        | ⚡⚡⚡⚡ |
 | Power BI     | ⚡⚡⚡🎯 |
 
+### Testing Libraries
+      
+| Language | Framework  | Rating    |
+| -------- | ---------- | --------- |
+| Python   | [Pytest]   | ⚡⚡     |
 
 ### Libraries
 
