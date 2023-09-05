@@ -34,13 +34,6 @@
 | TypeScript | ⚡🎯      |
 | Bash       | ⚡         |
 | Java       | ⚡⚡      |
-      
-### Back End Frameworks
-
-| Language | Framework               | Rating    |
-| -------- | ----------------------- | --------- |
-| Python   | Flask                   | ⚡⚡     |
-| Node.js  | Express.js              | ⚡🎯     |
 
 ### Front-End
 
@@ -57,6 +50,15 @@
 | [React.js](https://github.com/facebook/react)  | ⚡⚡🎯  |
 | [Next.js](https://github.com/vercel/next.js)   | 🎯🎯    |
 
+### Dev Ops
+
+| Technology | Rating     |
+| ---------- | ---------- |
+| Git        | ⚡⚡⚡🎯 |
+| Docker     | ⚡⚡🎯    |
+| AWS        | 🎯🎯      |
+| Makefile   | ⚡⚡      | 
+
    </td>
    <td>
  
@@ -70,14 +72,12 @@
 | No-SQL  | MongoDB          | ⚡🎯🎯    | 
 | ORM     | [Prisma](https://github.com/prisma/prisma) | 🎯🎯 | 
 
-### Dev Ops
+### Back End Frameworks
 
-| Technology | Rating     |
-| ---------- | ---------- |
-| Git        | ⚡⚡⚡🎯 |
-| Docker     | ⚡⚡🎯    |
-| AWS        | 🎯🎯      |
-| Makefile   | ⚡⚡      | 
+| Language | Framework               | Rating    |
+| -------- | ----------------------- | --------- |
+| Python   | Flask                   | ⚡⚡     |
+| Node.js  | Express.js              | ⚡🎯     |
 
 ### Data Analysis tools
      
