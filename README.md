@@ -91,7 +91,7 @@
       
 | Language | Framework  | Rating    |
 | -------- | ---------- | --------- |
-| Python   | [Pytest]   | ⚡⚡     |
+| Python   | [Pytest](https://docs.pytest.org)   | ⚡⚡     |
 
 ### Libraries
 
