@@ -41,7 +41,7 @@
 | ------------------------------------------------------- | --------  |
 | HTML                                                    | ⚡⚡⚡   | 
 | CSS                                                     | ⚡⚡🎯   |
-| [Tailwind](https://github.com/tailwindlabs/tailwindcss) | ⚡⚡🎯   | 
+| [Tailwind](https://github.com/tailwindlabs/tailwindcss) | ⚡⚡⚡   | 
 
 ### Front-End Frameworks
 
