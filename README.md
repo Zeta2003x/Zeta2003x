@@ -8,7 +8,7 @@
 
 
 ## 📚 Now learning in my career
-- ✏ Diseño de Sistemas
+- ✏ Advanced Calculus
 - 🛡 Ciberseguridad
 - ⚙ Sistemas Operativos
 - 💾 Gestión de Datos
@@ -24,6 +24,16 @@
   <tr>
     <td>
   
+### Salesforce
+
+| Technology   | Rating     |
+| ----------   | ---------- |
+| Apex         | ⚡⚡⚡🎯 |
+| LWC          | ⚡⚡⚡🎯 |
+| Flex         | ⚡⚡⚡⚡ |
+| Aura         | ⚡🎯      |
+| Visualforce  | ⚡🎯      |
+
 ### Languages
 
 | Language   | Rating     |
@@ -48,7 +58,7 @@
 | Framework                                      | Rating   |
 | ---------------------------------------------- | -------- |
 | [React.js](https://github.com/facebook/react)  | ⚡⚡🎯  |
-| [Next.js](https://github.com/vercel/next.js)   | 🎯🎯    |
+| [Next.js](https://github.com/vercel/next.js)   | ⚡🎯    |
 
 ### Dev Ops
 
