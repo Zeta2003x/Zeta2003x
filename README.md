@@ -1,6 +1,6 @@
 ### Hello there 👋, I am Mati
 
-- 💻 I'm 20 years old, studying Information Systems Engineering at the [National Technological University](http://www.frba.utn.edu.ar/).
+- 💻 I'm 21 years old, studying Information Systems Engineering at the [National Technological University](http://www.frba.utn.edu.ar/).
 
 - 🚀 Currently working as a Salesforce Developer Apprentice at [Endava](https://www.endava.com/).
   
@@ -9,9 +9,8 @@
 
 ## 📚 Now learning in my career
 - ✏ Advanced Calculus
-- 🛡 Ciberseguridad
-- ⚙ Sistemas Operativos
-- 💾 Gestión de Datos
+- 📊 Economy
+- ⚙️ Operative Systems
 
 
 ## 🛠 My tech stack
@@ -30,7 +29,7 @@
 | ----------   | ---------- |
 | Apex         | ⚡⚡⚡🎯 |
 | LWC          | ⚡⚡⚡🎯 |
-| Flex         | ⚡⚡⚡⚡ |
+| Flow        | ⚡⚡⚡⚡ |
 | Aura         | ⚡🎯      |
 | Visualforce  | ⚡🎯      |
 
