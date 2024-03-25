@@ -44,7 +44,32 @@
 | Bash       | ⚡         |
 | Java       | ⚡⚡      |
 
-### Front-End
+### Data Analysis tools
+     
+| Tool         | Rating     |
+| --------     | --------   |
+| Excel        | ⚡⚡⚡⚡ |
+| Power BI     | ⚡⚡⚡🎯 |
+
+### Testing Libraries
+      
+| Language | Framework  | Rating    |
+| -------- | ---------- | --------- |
+| Python   | [Pytest](https://docs.pytest.org)   | ⚡⚡     |
+| Javascript   | [Jest](https://jestjs.io)   | ⚡⚡     |
+
+### Libraries
+
+| Language   | Library                                                | Rating   |
+|------------| ------------------------------------------------------ | -------- |
+| Python | [Selenium](https://pypi.org/project/selenium)              | ⚡⚡⚡  |
+| Python | [Pandas](https://pandas.pydata.org/)                       | ⚡⚡    |
+| JavaScript | [Tailwind UI](https://tailwindui.com/)                 | ⚡⚡    |
+
+   </td>
+   <td>
+
+ ### Front-End
 
 | Language                                                | Rating    | 
 | ------------------------------------------------------- | --------  |
@@ -59,19 +84,6 @@
 | [React.js](https://github.com/facebook/react)  | ⚡⚡🎯  |
 | [Next.js](https://github.com/vercel/next.js)   | ⚡🎯    |
 
-### Dev Ops
-
-| Technology | Rating     |
-| ---------- | ---------- |
-| Git        | ⚡⚡⚡🎯 |
-| Docker     | ⚡⚡🎯    |
-| AWS        | 🎯🎯      |
-| Makefile   | ⚡⚡      |
-| Linux      | ⚡⚡      |
-
-   </td>
-   <td>
- 
 ### Database
 
 | Type    | DB-ORM           | Rating     |
@@ -89,26 +101,16 @@
 | Python   | Flask                   | ⚡⚡     |
 | Node.js  | Express.js              | ⚡🎯     |
 
-### Data Analysis tools
-     
-| Tool         | Rating     |
-| --------     | --------   |
-| Excel        | ⚡⚡⚡⚡ |
-| Power BI     | ⚡⚡⚡🎯 |
+### Dev Ops
 
-### Testing Libraries
-      
-| Language | Framework  | Rating    |
-| -------- | ---------- | --------- |
-| Python   | [Pytest](https://docs.pytest.org)   | ⚡⚡     |
-
-### Libraries
-
-| Language   | Library                                                | Rating   |
-|------------| ------------------------------------------------------ | -------- |
-| Python | [Selenium](https://pypi.org/project/selenium)              | ⚡⚡⚡  |
-| Python | [Pandas](https://pandas.pydata.org/)                       | ⚡⚡    |
-| JavaScript | [Tailwind UI](https://tailwindui.com/)                 | ⚡⚡    |
+| Technology | Rating     |
+| ---------- | ---------- |
+| Git        | ⚡⚡⚡🎯 |
+| Docker     | ⚡⚡🎯    |
+| AWS        | ⚡🎯🎯    |
+| Makefile   | ⚡⚡      |
+| Linux      | ⚡⚡      |
+| Jira      | ⚡⚡⚡    |
 
   </td>
  </tr>
