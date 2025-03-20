@@ -1,6 +1,6 @@
 ### Hello there 👋, I am Mati
 
-- 💻 I'm 21 years old, studying Information Systems Engineering at the [National Technological University](http://www.frba.utn.edu.ar/).
+- 💻 I'm 22 years old, studying Information Systems Engineering at the [National Technological University](http://www.frba.utn.edu.ar/).
 
 - 🚀 Currently working as a Salesforce Developer at [Endava](https://www.endava.com/).
   
@@ -10,7 +10,6 @@
 ## 📚 Now learning in my career
 - ✏ Advanced Calculus
 - 📊 Resources Administration
-- ⚙️ Operative Systems
 
 
 ## 🛠 My tech stack
@@ -27,22 +26,22 @@
 
 | Technology   | Rating     |
 | ----------   | ---------- |
-| Apex         | ⚡⚡⚡🎯 |
-| LWC          | ⚡⚡⚡🎯 |
-| Flow        | ⚡⚡⚡⚡ |
-| Aura         | ⚡🎯      |
-| Visualforce  | ⚡🎯      |
+| Apex         | ⚡⚡⚡⚡ |
+| LWC          | ⚡⚡⚡⚡ |
+| Flow         | ⚡⚡⚡⚡ |
+| Aura         | ⚡⚡      |
+| Visualforce  | ⚡⚡      |
 
 ### Languages
 
 | Language   | Rating     |
 | ---------- | ---------- |
-| Python     | ⚡⚡⚡⚡  |
-| C          | ⚡⚡⚡    |
-| JavaScript | ⚡⚡⚡    |
+| JavaScript | ⚡⚡⚡⚡ |
+| Java       | ⚡⚡⚡⚡ |
+| Python     | ⚡⚡⚡⚡ |
+| C          | ⚡⚡⚡⚡ |
 | TypeScript | ⚡🎯      |
 | Bash       | ⚡         |
-| Java       | ⚡⚡      |
 
 ### Data Analysis tools
      
@@ -73,15 +72,15 @@
 
 | Language                                                | Rating    | 
 | ------------------------------------------------------- | --------  |
-| HTML                                                    | ⚡⚡⚡   | 
-| CSS                                                     | ⚡⚡🎯   |
-| [Tailwind](https://github.com/tailwindlabs/tailwindcss) | ⚡⚡⚡   | 
+| HTML                                                    | ⚡⚡⚡⚡   | 
+| CSS                                                     | ⚡⚡⚡⚡  |
+| [Tailwind](https://github.com/tailwindlabs/tailwindcss) | ⚡⚡⚡⚡   | 
 
 ### Front-End Frameworks
 
 | Framework                                      | Rating   |
 | ---------------------------------------------- | -------- |
-| [React.js](https://github.com/facebook/react)  | ⚡⚡🎯  |
+| [React.js](https://github.com/facebook/react)  | ⚡⚡⚡  |
 | [Next.js](https://github.com/vercel/next.js)   | ⚡🎯    |
 
 ### Database
@@ -92,14 +91,14 @@
 | SQL     | MS SQL Server    | ⚡⚡🎯    |
 | SQL     | MS Access        | ⚡⚡      |
 | No-SQL  | MongoDB          | ⚡🎯🎯    | 
-| ORM     | [Prisma](https://github.com/prisma/prisma) | 🎯🎯 | 
+| ORM     | [Prisma](https://github.com/prisma/prisma) | ⚡🎯 | 
 
 ### Back End Frameworks
 
 | Language | Framework               | Rating    |
 | -------- | ----------------------- | --------- |
 | Python   | Flask                   | ⚡⚡     |
-| Node.js  | Express.js              | ⚡🎯     |
+| Node.js  | Express.js              | ⚡⚡     |
 
 ### Dev Ops
 
@@ -110,7 +109,8 @@
 | AWS        | ⚡🎯🎯    |
 | Makefile   | ⚡⚡      |
 | Linux      | ⚡⚡      |
-| Jira      | ⚡⚡⚡    |
+| Jira       | ⚡⚡⚡    |
+| Azure DevOps| ⚡⚡⚡    |
 
   </td>
  </tr>
