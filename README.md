@@ -2,7 +2,7 @@
 
 - 💻 I'm 22 years old, studying Information Systems Engineering at the [National Technological University](http://www.frba.utn.edu.ar/).
 
-- 🚀 Currently working as a Salesforce Developer at [Endava](https://www.endava.com/).
+- 🚀 Currently working as a Salesforce Developer at [Accenture](https://accenture.com).
   
 - 🔥 I like to automate boring tasks and develop reliable solutions.
 
