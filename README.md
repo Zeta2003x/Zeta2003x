@@ -7,111 +7,65 @@
 - 🔥 I like to automate boring tasks and develop reliable solutions.
 
 
-## 📚 Now learning in my career
-- ✏ Advanced Calculus
-- 📊 Resources Administration
+## 📜 Certs:
+
+- Salesforce Platform Developer II
+- Salesforce Platform Developer I
+- Salesforce JavaScript Developer
+- Salesforce Platform App Builder
+- Salesforce Administrator
+- Salesforce Data 360 Consultant (former Data Cloud)
+- Salesforce Agentforce Specialist
+- Salesforce AI Associate
+- Salesforce Platform Foundations
+- AWS Certified Cloud Practitioner
 
 
 ## 🛠 My tech stack
 
-- ⚡ = Current
-- 🎯 = Goal for new year
-
-
-<table>
-  <tr>
-    <td>
-  
-### Salesforce
-
-| Technology   | Rating     |
-| ----------   | ---------- |
-| Apex         | ⚡⚡⚡⚡ |
-| LWC          | ⚡⚡⚡⚡ |
-| Flow         | ⚡⚡⚡⚡ |
-| Aura         | ⚡⚡      |
-| Visualforce  | ⚡⚡      |
-
-### Languages
-
-| Language   | Rating     |
-| ---------- | ---------- |
-| JavaScript | ⚡⚡⚡⚡ |
-| Java       | ⚡⚡⚡⚡ |
-| Python     | ⚡⚡⚡⚡ |
-| C          | ⚡⚡⚡⚡ |
-| TypeScript | ⚡🎯      |
-| Bash       | ⚡         |
-
-### Data Analysis tools
-     
-| Tool         | Rating     |
-| --------     | --------   |
-| Excel        | ⚡⚡⚡⚡ |
-| Power BI     | ⚡⚡⚡🎯 |
-
-### Testing Libraries
-      
-| Language | Framework  | Rating    |
-| -------- | ---------- | --------- |
-| Python   | [Pytest](https://docs.pytest.org)   | ⚡⚡     |
-| Javascript   | [Jest](https://jestjs.io)   | ⚡⚡     |
-
-### Libraries
-
-| Language   | Library                                                | Rating   |
-|------------| ------------------------------------------------------ | -------- |
-| Python | [Selenium](https://pypi.org/project/selenium)              | ⚡⚡⚡  |
-| Python | [Pandas](https://pandas.pydata.org/)                       | ⚡⚡    |
-| JavaScript | [Tailwind UI](https://tailwindui.com/)                 | ⚡⚡    |
-
-   </td>
-   <td>
-
- ### Front-End
-
-| Language                                                | Rating    | 
-| ------------------------------------------------------- | --------  |
-| HTML                                                    | ⚡⚡⚡⚡   | 
-| CSS                                                     | ⚡⚡⚡⚡  |
-| [Tailwind](https://github.com/tailwindlabs/tailwindcss) | ⚡⚡⚡⚡   | 
-
-### Front-End Frameworks
-
-| Framework                                      | Rating   |
-| ---------------------------------------------- | -------- |
-| [React.js](https://github.com/facebook/react)  | ⚡⚡⚡  |
-| [Next.js](https://github.com/vercel/next.js)   | ⚡🎯    |
-
-### Database
-
-| Type    | DB-ORM           | Rating     |
-| ------- | ---------------- | --------   |
-| SQL     | PostgreSQL       | ⚡⚡⚡🎯  |
-| SQL     | MS SQL Server    | ⚡⚡🎯    |
-| SQL     | MS Access        | ⚡⚡      |
-| No-SQL  | MongoDB          | ⚡🎯🎯    | 
-| ORM     | [Prisma](https://github.com/prisma/prisma) | ⚡🎯 | 
-
-### Back End Frameworks
-
-| Language | Framework               | Rating    |
-| -------- | ----------------------- | --------- |
-| Python   | Flask                   | ⚡⚡     |
-| Node.js  | Express.js              | ⚡⚡     |
-
-### Dev Ops
-
-| Technology | Rating     |
-| ---------- | ---------- |
-| Git        | ⚡⚡⚡🎯 |
-| Docker     | ⚡⚡🎯    |
-| AWS        | ⚡🎯🎯    |
-| Makefile   | ⚡⚡      |
-| Linux      | ⚡⚡      |
-| Jira       | ⚡⚡⚡    |
-| Azure DevOps| ⚡⚡⚡    |
-
-  </td>
- </tr>
-</table>
+| Categoría | Technology / Tool | Context / Language |
+| :--- | :--- | :--- |
+| Salesforce | Apex | |
+| Salesforce | LWC | |
+| Salesforce | Flow | |
+| Salesforce | Aura | |
+| Salesforce | Visualforce | |
+| Salesforce | DevOps Center | |
+| Salesforce | Agentforce | |
+| Salesforce | AgentScript | |
+| Languages | JavaScript | |
+| Languages | Java | |
+| Languages | Python | |
+| Languages | C | |
+| Languages | TypeScript | |
+| Languages | Bash | |
+| Data Analysis Tools | Excel | |
+| Data Analysis Tools | Power BI | |
+| Testing Libraries | [Pytest](https://docs.pytest.org) | Python |
+| Testing Libraries | [Jest](https://jestjs.io) | JavaScript |
+| Libraries | [Selenium](https://pypi.org/project/selenium) | Python |
+| Libraries | [Pandas](https://pandas.pydata.org/) | Python |
+| Front-End | HTML | |
+| Front-End | CSS | |
+| Front-End | [Tailwind](https://github.com/tailwindlabs/tailwindcss) | |
+| Front-End | [Shadcn](https://ui.shadcn.com/) | |
+| Front-End Frameworks | [React.js](https://github.com/facebook/react) | |
+| Front-End Frameworks | [Next.js](https://github.com/vercel/next.js) | |
+| Front-End Frameworks | [Tanstack](https://tanstack.com/start/) | |
+| Database | Postgres | SQL |
+| Database | MS SQL Server | SQL |
+| Database | MS Access | SQL |
+| Database | MongoDB | No-SQL |
+| Database | Redis | No-SQL |
+| Database | [Prisma](https://github.com/prisma/prisma) | ORM |
+| Database | [Drizzle](https://orm.drizzle.team) | ORM |
+| Back End Frameworks | Flask | Python |
+| Back End Frameworks | Express.js | Node.js |
+| Back End Frameworks | Nest.js | Node.js |
+| Dev Ops & Tools | Git | |
+| Dev Ops & Tools | Docker | |
+| Dev Ops & Tools | AWS | |
+| Dev Ops & Tools | Makefile | |
+| Dev Ops & Tools | Jira | |
+| Dev Ops & Tools | Azure DevOps | |
+| Dev Ops & Tools | Claude Code | |
