@@ -23,7 +23,7 @@
 
 ## 🛠 My tech stack
 
-| Categoría | Technology / Tool | Context / Language |
+| Category | Technology / Tool | Context / Language |
 | :--- | :--- | :--- |
 | Salesforce | Apex | |
 | Salesforce | LWC | |
